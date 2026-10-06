@@ -1,1 +1,1 @@
-# gonfox-variety-gift
+# gonfox-variety-pack

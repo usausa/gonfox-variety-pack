@@ -8,7 +8,7 @@
     <File Path="CodeCoverage.runsettings" />
     <File Path="Directory.Build.props" />
     <File Path="Directory.Build.targets" />
-    <File Path="GonFox.VarietyGift.sln.DotSettings" />
+    <File Path="GonFox.VarietyPack.sln.DotSettings" />
     <File Path="LICENSE" />
     <File Path="README.md" />
   </Folder>
